@@ -1,0 +1,21 @@
+{
+ "name": "todoist-cli-quick-add",
+ "version": "1.0.0",
+ "description": "",
+ "main": "./todoist.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "keywords": [],
+ "author": "David Sword",
+ "license": "MIT",
+ "bin": {
+  "+": "./todoist.js"
+ },
+ "dependencies": {
+  "chalk": "2.4",
+  "dotenv": "^10.0.0",
+  "sanitize.js": "^1.0.8",
+  "todoist": "^0.5.0"
+ }
+}
