@@ -38,6 +38,6 @@ npm install -g .
 ## Usage 
 
 ```
-$ + dont forget the milk 
+$ + pick up milk 
 ```
 
