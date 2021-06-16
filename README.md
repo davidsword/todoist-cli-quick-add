@@ -4,7 +4,7 @@ Add task to todoist.com inbox from short `+` command.
 
 ## Installation
 
-Requires [node](https://nodejs.org/).
+Requires a [Todoist.com](https://Todoist.com) account and [node](https://nodejs.org/) & [npm](https://www.npmjs.com/).
 
 #### Download
 
