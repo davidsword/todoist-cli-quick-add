@@ -41,3 +41,4 @@ npm install -g .
 $ + pick up milk 
 ```
 
+![](assets/demo.gif)
