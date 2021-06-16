@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // include it
-require('dotenv').config(); // https://www.npmjs.com/package/dotenv
+require('dotenv').config({ path: __dirname + '/.env' }); // https://www.npmjs.com/package/dotenv
 const Todoist = require('todoist').v8 // https://www.npmjs.com/package/todoist
 const chalk = require("chalk"); // https://www.npmjs.com/package/chalk
 const {
